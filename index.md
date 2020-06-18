@@ -21,3 +21,5 @@ Diese kleine, freche Biene Maja
 >Wie soll ich denn was lernen für's Leben, 
 >wenn mir keiner was erklärt?
 >Gefunden auf: https://www.myzitate.de/biene-maja/
+
+<img src="https://cdn.pixabay.com/photo/2014/04/03/10/40/honey-311047__340.png"/>
