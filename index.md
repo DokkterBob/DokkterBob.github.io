@@ -8,4 +8,10 @@ Kleine, freche, schlaue Biene Maja
 Maja fliegt durch ihre Welt, zeigt uns was ihr gefällt
 Wir treffen heute unsere Freundin Biene Maja
 Diese kleine, freche Biene Maja
-
+## Eigenschaften:
+* kann fliegen
+* liebt Blütenpollen
+* ist mit Willi befreundet
+* trägt gerne schwarz-gelb
+* lebt gerne gefährlich
+* hat immer tolle Ideen
