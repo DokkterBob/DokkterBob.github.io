@@ -15,3 +15,9 @@ Diese kleine, freche Biene Maja
 * trägt gerne schwarz-gelb
 * lebt gerne gefährlich
 * hat immer tolle Ideen
+
+>Warum erklärst du's mir nicht? 
+>Aber so, dass ich dich auch wirklich verstehe.
+>Wie soll ich denn was lernen für's Leben, 
+>wenn mir keiner was erklärt?
+>Gefunden auf: https://www.myzitate.de/biene-maja/
